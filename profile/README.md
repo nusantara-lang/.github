@@ -1,3 +1,3 @@
 ## Nusantara
 
-### Indonesian programming language for all needs.
+### Bahasa pemrograman Indonesia untuk segala kebutuhan.
